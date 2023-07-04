@@ -355,6 +355,7 @@ footer .credit a {
     display: block;
     margin: 1.5rem;
     padding: 0.5rem;
+    font-size: 2rem;
   }
 
   .navbar .navbar-nav a::after {
