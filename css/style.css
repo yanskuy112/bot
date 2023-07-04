@@ -321,14 +321,14 @@ footer .credit a {
 /* Media Queries */
 
 /* Laptop */
-@media (max-width: 1366px) {
+@media (min-width: 1024px) {
   html {
     font-size: 30%;
   }
 }
 
 /* Tablet */
-@media (max-width: 758px) {
+@media (min-width: 767px) and (max-width: 1023px) {
   html {
     font-size: 62.5%;
   }
