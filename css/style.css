@@ -321,7 +321,7 @@ footer .credit a {
 /* Media Queries */
 
 /* Laptop */
-@media (min-width: 1024px) {
+@media (min-width: 1366px) {
   html {
     font-size: 75%;
   }
