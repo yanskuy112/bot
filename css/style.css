@@ -323,12 +323,12 @@ footer .credit a {
 /* Laptop */
 @media (min-width: 1024px) {
   html {
-    font-size: 30%;
+    font-size: 75%;
   }
 }
 
 /* Tablet */
-@media (min-width: 767px) and (max-width: 1023px) {
+@media (max-width: 768px) {
   html {
     font-size: 62.5%;
   }
