@@ -403,7 +403,7 @@ footer .credit a {
 }
 
 /* Tablet */
-@media screen (max-width: 768px) {
+@media (max-width: 758px) {
   html {
     font-size: 62.5%;
   }
