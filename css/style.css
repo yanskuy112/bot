@@ -44,6 +44,7 @@ body {
   font-size: 2rem;
   font-weight: 700;
   font-style: italic;
+  text-transform: lowercase;
   color: #3a4f50;
 }
 
